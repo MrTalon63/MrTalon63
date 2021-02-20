@@ -1,4 +1,4 @@
-## Cześć! Jestem Mrtalon63, lub też Marcin Czop
+## Cześć! Jestem MrTalon63, lub też Marcin Czop
 
 ### Witaj na moim Githubie. Zanjduje się tu kilka moich projektów, jednak większość z nich nie jest publicznie dostępna :/
 <br>
