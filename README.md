@@ -1,7 +1,7 @@
 ## Hi! I'm MrTalon63
 
 I'm not really a developer by any means. Likewise, I mostly tinker with Discord bots, web apps and electronics.
-I absolutely love working with RF, and I'm a licensed amateur radio operator and my callsign is SP0KS. I'm mostly active on APRS and sometimes local VHF/UHF.
+I absolutely love working with RF. I'm a licensed amateur radio operator and my callsign is SP0KS. I'm mostly active on APRS and sometimes local VHF/UHF.
 Furthermore, I'm currently an undergraduate at Silesian University of Technology, majoring in electronics and telecommunications.
 
 If you want to contact me, it's best to email me, as I don't really use X/Twitter or any social media.
